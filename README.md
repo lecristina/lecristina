@@ -32,5 +32,9 @@ Fiz um curso Fullstack na rocketseat de um ano, pequei a base do desenvolvimento
 
 <a href="https://github.com/lecristina" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lecristina&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-![Snake animation](https://github.com/lecristina/lecristina/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lecristina/lecristina/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lecristina/lecristina/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lecristina/lecristina/output/github-contribution-grid-snake.svg">
+</picture>
 
