@@ -10,7 +10,6 @@ Fiz um curso Fullstack na rocketseat de um ano, pequei a base do desenvolvimento
 * 🖥️  Veja meu portifólio em [Linkedin](http://www.linkedin.com/in/leticia-cristina-dos-santos-passos-a1a988233/)
 * 🧠  Atualmente iniciei estudo em LIBRAS
 * 🤝  Gosto de projetos que me ajudem a evoluir.
-* ⚡  Meu foco é consumir o máximo de conteúdo possível de várias áreas
 ###
 
 <h2 align="left">Linguagens e outros</h2>
