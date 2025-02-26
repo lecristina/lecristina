@@ -7,8 +7,8 @@ Análise e Desenvolvimento de Software
 Fiz um curso Fullstack na rocketseat de um ano, pequei a base do desenvolvimento nesse tempo e iniciei meus estudo na FIAP no ano seguinte. Meus conhecimentos mais sólidos: JAVA, HTML, CSS, Ruby, Rails, Tailwind, Node.js, Vue, UI/UX. Ainda em desenvolvimento: Python, React, NUXT, SQL, MongoDB, Node-RED, Pandas, IA, JavaScript, TypeScript. Ferramentas: Figma, VSCode, IntelliJ, Eclipse, Plane.so, Astah, Git/Github, IBM Watson, AWS, Vercel, SQL Developer, Datamodeler, XAMPP(MySQL/Apache), Google Colab(para IA).
 
 * 🌍  São Paulo
-* 🖥️  Veja meu portifólio em [Linkedin](http://www.linkedin.com/in/leticia-cristina-dos-santos-passos-a1a988233/)
-* 🧠  Atualmente iniciei estudos em LIBRAS
+* 🖥️  Certificações em [Linkedin](http://www.linkedin.com/in/leticia-cristina-dos-santos-passos-a1a988233/)
+* 🧠  Iniciei estudos em LIBRAS
 * 🤝  Gosto de projetos que me ajudem a evoluir.
 ###
 
